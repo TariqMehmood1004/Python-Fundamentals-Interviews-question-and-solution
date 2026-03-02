@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+__pycache__/
+.idea/
+
+# System files
+.DS_Store
+
+# Env vars
+.env
+/.env
+
+# Logs
+*.log
